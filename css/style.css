@@ -114,7 +114,7 @@ body {
     border-radius: 15px;
 }
 
-.card h2, p {
+.card-content h2, p {
     color: black;
     text-align: left;
 }
