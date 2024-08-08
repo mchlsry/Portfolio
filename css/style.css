@@ -21,6 +21,10 @@ body {
     overflow: hidden;
 }
 
+.navbar a img {
+    margin-top: 10px; margin-left: 50px;
+}
+
 /* MENU NAVBAR */
 .menu {
     float: right;
