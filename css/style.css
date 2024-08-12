@@ -39,6 +39,23 @@ body {
     font-weight: bold;
 }
 
+.btn-others {
+    border: none;
+    border-radius: 100px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    background-color: none;
+    font-weight: bold;
+}
+
+.btn-others:hover {
+    color: #00c8ff;
+    font-size: large;
+    transition: .5s;
+}
+
 /* HOME */
 .max-width {
     display: flex;
@@ -75,8 +92,8 @@ body {
 }
 
 .foto-home {
-    float: right;
-    margin-left: 120px;
+    float: left;
+    margin-right: 100px;
 }
 
 /* ABOUT */
